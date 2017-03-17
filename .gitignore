@@ -1,5 +1,7 @@
 # Target Dirs
 Shuffle/bin
 Shuffle/obj
-ShuffleTest/bin
-ShuffleTest/obj
+ShufflerTest/bin
+ShufflerTest/obj
+.vs/
+*.suo

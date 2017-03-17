@@ -1,0 +1,6 @@
+C:\Users\magostin\Documents\GitHub\Shuffle\Shuffle\bin\Debug\Shuffle.exe.config
+C:\Users\magostin\Documents\GitHub\Shuffle\Shuffle\bin\Debug\Shuffle.exe
+C:\Users\magostin\Documents\GitHub\Shuffle\Shuffle\bin\Debug\Shuffle.pdb
+C:\Users\magostin\Documents\GitHub\Shuffle\Shuffle\obj\Debug\Shuffle.csprojResolveAssemblyReference.cache
+C:\Users\magostin\Documents\GitHub\Shuffle\Shuffle\obj\Debug\Shuffle.exe
+C:\Users\magostin\Documents\GitHub\Shuffle\Shuffle\obj\Debug\Shuffle.pdb

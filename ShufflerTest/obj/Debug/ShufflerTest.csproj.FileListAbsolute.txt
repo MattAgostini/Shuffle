@@ -1,0 +1,8 @@
+C:\Users\magostin\Documents\GitHub\Shuffle\ShufflerTest\bin\Debug\ShufflerTest.dll
+C:\Users\magostin\Documents\GitHub\Shuffle\ShufflerTest\bin\Debug\ShufflerTest.pdb
+C:\Users\magostin\Documents\GitHub\Shuffle\ShufflerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\magostin\Documents\GitHub\Shuffle\ShufflerTest\bin\Debug\Shuffle.exe
+C:\Users\magostin\Documents\GitHub\Shuffle\ShufflerTest\bin\Debug\Shuffle.pdb
+C:\Users\magostin\Documents\GitHub\Shuffle\ShufflerTest\obj\Debug\ShufflerTest.csprojResolveAssemblyReference.cache
+C:\Users\magostin\Documents\GitHub\Shuffle\ShufflerTest\obj\Debug\ShufflerTest.dll
+C:\Users\magostin\Documents\GitHub\Shuffle\ShufflerTest\obj\Debug\ShufflerTest.pdb

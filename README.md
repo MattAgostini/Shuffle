@@ -3,6 +3,12 @@ Shuffle
 
 An application that produces a randomly ordered list of values.
 
+Project Status
+--------------
+
+[![Build Status](https://travis-ci.org/MattAgostini/Shuffle.svg?branch=master)](https://travis-ci.org/MattAgostini/Shuffle)
+
+
 Introduction
 ------------
 

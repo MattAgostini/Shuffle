@@ -1,47 +1,41 @@
 ﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-//using NUnit.framework;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using NUnit.Framework;
 using Shuffle;
 
-namespace ShuffleTest
+namespace ShufflerTest
 {
-    [TestClass]
     public class ShufflerTest
     {
         
-        [TestMethod]
+        [Test]
         public void InputTest_NegativeNumber()
         {
             Shuffler shuffler = new Shuffler();
             Assert.AreEqual(false, shuffler.IsValid("-1"));
         }
 
-        [TestMethod]
+        [Test]
         public void InputTest_HugeNumber()
         {
             Shuffler shuffler = new Shuffler();
             Assert.AreEqual(false, shuffler.IsValid("4000000000"));
         }
 
-        [TestMethod]
+        [Test]
         public void InputTest_Characters()
         {
             Shuffler shuffler = new Shuffler();
             Assert.AreEqual(false, shuffler.IsValid("TestString"));
         }
 
-        [TestMethod]
+        [Test]
         public void InputTest_ValidInput()
         {
             Shuffler shuffler = new Shuffler();
             Assert.AreEqual(true, shuffler.IsValid("5"));
         }
 
-        [TestMethod]
+        [Test]
         public void RandomnessTest()
         {
             double[] occurances = {0,0,0,0,0,0};
